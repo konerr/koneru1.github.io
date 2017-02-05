@@ -1,4 +1,4 @@
-## Welcome to Rahul's Pages
+## Welcome to Rahul's Page
 
 This is my page.
 
