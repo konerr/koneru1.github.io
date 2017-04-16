@@ -1,9 +1,14 @@
-## Welcome to Rahul's Page
+## About
 
-I am currently pursuing my PhD in Mechanical Enginering at University of Florida. My area of research involves developing compressible multiphase _LES_ models in Euler-Lagrange framework. 
+Hi! I'm a graduate student at University of Florida pursuing my PhD in Mechanical Enginering. To be specific, my domain is computational fluid dynamics (CFD). For most of my time I write or computer code to solve complex mathematical equations that govern the physics of fluid flows. When I'm not busy working or cursing at my computer screen, I like to travel, go hiking, especially the west coast of USA and take photographs.
 
-This page is being updated...
+## Research
 
+My research involves developing _LES_ and force models for compressible multiphase flows in Euler-Lagrange framework. I'm interested in understanding the underlying physics of multiphase fluids under extreme environments as such during volcanic eruptions. Furthermore, I'm interested in higher-order numerical methods for highly compressible flows, dynamics of turbulence in compressible regimes, high performance computing.
+
+## Projects
+
+The driver
 You can use the [editor on GitHub](https://github.com/konerr/konerr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
