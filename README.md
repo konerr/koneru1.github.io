@@ -1,13 +1,14 @@
 ## About
-
-Hi! I'm a graduate student at University of Florida pursuing my PhD in Mechanical Enginering. To be specific, my domain of research is computational fluid dynamics (_CFD_). I use computer code to solve complex mathematical equations that govern the physics of fluid flows in an attempt to understand the underlying phenomenon.   
-When I'm not busy working or cursing at my computer screen, I like to travel, go hiking, especially the west coast of USA and take photographs.
+<p align="justify">
+Hi! I'm a graduate student at University of Florida pursuing my PhD in Mechanical Enginering. To be specific, my domain of research is computational fluid dynamics (<i>CFD</i>). I use computer code to solve complex mathematical equations that govern the physics of fluid flows in an attempt to understand the underlying phenomenon.<br> 
+When I'm not busy working or cursing at my computer screen, I like to travel, go hiking, especially the west coast of USA and take photographs.  
+</p>
 
 ## Research
-
-My research involves developing _LES_ and force models for compressible multiphase flows in Euler-Lagrange framework. I'm interested in understanding the underlying physics of multiphase fluids under extreme environments as such during volcanic eruptions.   
+<p align="justify">
+My research involves developing <i>LES</i> and force models for compressible multiphase flows in Euler-Lagrange framework. I'm interested in understanding the underlying physics of multiphase fluids under extreme environments as such during volcanic eruptions.<br>
 Furthermore, I'm interested in higher-order numerical methods for highly compressible flows, dynamics of turbulence in compressible regimes and high performance computing.
-
+</p>
 ## Projects
 
 _Work in progress_...    
